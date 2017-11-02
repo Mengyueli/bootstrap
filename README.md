@@ -1,2 +1,2 @@
-# bootstrap
-### 主要讲解bootstrap中常用的知识点
+# lesson-bootstrap
+### 分支只有一个 bootstrap中的常用知识点
